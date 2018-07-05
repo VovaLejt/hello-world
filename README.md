@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hi all
+
+Learning php and the other stuff
